@@ -11,7 +11,8 @@ name generator][moby-ng].
 The Moby NOTICES file has been reproduced in this repository for your 
 consumption, minus parts not relevant to the program. In particular, the only 
 parts relevant to this program are the lists of names and their comments. No 
-other code is reproduced, as this is a very small Rust program.
+other code is reproduced, as this is a very small Rust program. In addition,
+the Docker license text is available under the DOCKER-LICENSE file.
 
 Installation
 ---
